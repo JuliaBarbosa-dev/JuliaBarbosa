@@ -7,7 +7,7 @@
 
 ### Sou a Julia Barbosa (Você já deve ter percebido).
 
-Sou acadêmica em Ciência da Computação.
+Sou acadêmica em Ciência da Computação e desenvolvedora front end at REPROGRAMA.
 
  - ☄️ Focando os estudos no ecossistema Javascript, com ReactJS + NodeJS
  - ⚡ Técnica em Manutenção e Suporte em Informática.
